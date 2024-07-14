@@ -1,3 +1,13 @@
+"""
+   Se foi últil para você de alguma forma, então faça um doação em Crypto.
+   
+     * Ethereum   : 0xd29b2ff62842f4fd9864caf410155be0ebc2a132
+     * Bitcoin    : 15jzC1ynahB187RRxEthgE1Pv1xXZ7EYbW   
+     * Zec(Zcash) : tex123as8jgwljy5c3pyx495lyqwm34prywa68tfv2
+     * Dash       : XgajTRdHg97VaTwJFrNvqRP8Va1vz6ypd8
+
+"""
+
 import itertools
 import random
 import re
